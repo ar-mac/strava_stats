@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/strava_stats/static/css/main.cb0cc02e.chunk.css",
-    "main.js": "/strava_stats/static/js/main.be9ed112.chunk.js",
-    "main.js.map": "/strava_stats/static/js/main.be9ed112.chunk.js.map",
+    "main.css": "/strava_stats/static/css/main.a5b90cf6.chunk.css",
+    "main.js": "/strava_stats/static/js/main.8e990546.chunk.js",
+    "main.js.map": "/strava_stats/static/js/main.8e990546.chunk.js.map",
     "runtime~main.js": "/strava_stats/static/js/runtime~main.c5e026d3.js",
     "runtime~main.js.map": "/strava_stats/static/js/runtime~main.c5e026d3.js.map",
-    "static/js/2.b41502e9.chunk.js": "/strava_stats/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/strava_stats/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.5a1d3022.chunk.js": "/strava_stats/static/js/2.5a1d3022.chunk.js",
+    "static/js/2.5a1d3022.chunk.js.map": "/strava_stats/static/js/2.5a1d3022.chunk.js.map",
     "index.html": "/strava_stats/index.html",
-    "precache-manifest.02d7de4adbeef7929c1e2f78babfb844.js": "/strava_stats/precache-manifest.02d7de4adbeef7929c1e2f78babfb844.js",
+    "precache-manifest.5d56230bc835f5a19df2e11ca71cf6fd.js": "/strava_stats/precache-manifest.5d56230bc835f5a19df2e11ca71cf6fd.js",
     "service-worker.js": "/strava_stats/service-worker.js",
-    "static/css/main.cb0cc02e.chunk.css.map": "/strava_stats/static/css/main.cb0cc02e.chunk.css.map",
-    "static/media/logo.svg": "/strava_stats/static/media/logo.5d5d9eef.svg"
+    "static/css/main.a5b90cf6.chunk.css.map": "/strava_stats/static/css/main.a5b90cf6.chunk.css.map"
   }
 }
