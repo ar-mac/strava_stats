@@ -20,7 +20,7 @@ class App extends Component {
     fetch("https://www.strava.com/api/v3/athlete/activities?page=1&per_page=40", {
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': "Bearer [[TOKEN]]",
+        'Authorization': `Bearer ${process.env.REACT_APP_STRAVA_ACCESS_TOKEN}`,
       },
     })
       .then(response => {

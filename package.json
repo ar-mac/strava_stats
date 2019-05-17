@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://pokiujf.github.io/strava_stats",
   "dependencies": {
+    "dotenv": "^8.0.0",
     "gh-pages": "^2.0.1",
     "moment": "^2.24.0",
     "react": "^16.8.6",
