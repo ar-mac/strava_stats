@@ -12,7 +12,7 @@ export default class MonthTotalsCard extends Component {
       <div className="activities__card">
         <div>month: {monthData.month}</div>
         <div>distance: {(monthData.distance / 1000).toFixed(2)}km</div>
-        <div>elevation: {monthData.totalElevationGain}m</div>
+        <div>elevation: {monthData.totalElevationGain.toFixed(2)}m</div>
         <div>max speed: {monthData.maxSpeed.toFixed(2)}km/h</div>
         <div>average speed: {monthData.averageSpeed.toFixed(2)}km/h</div>
         <div>activity time: {Math.round(monthData.movingTime)}min</div>

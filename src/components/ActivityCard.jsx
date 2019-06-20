@@ -14,7 +14,7 @@ export default class ActivityCard extends Component {
         <div>{activity.name} ({activity.type})</div>
         <div>{moment(activity.startDate).format('D MMM H:m A')}</div>
         <div>distance: {(activity.distance / 1000).toFixed(2)}km</div>
-        <div>elevation: {activity.totalElevationGain}m</div>
+        <div>elevation: {activity.totalElevationGain.toFixed(2)}m</div>
         <div>max speed: {activity.maxSpeed}km/h</div>
         <div>activity time: {Math.round(activity.movingTime / 60)}min</div>
       </div>
