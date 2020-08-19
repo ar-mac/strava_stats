@@ -4,7 +4,10 @@
   "private": true,
   "homepage": "https://pokiujf.github.io/strava_stats",
   "dependencies": {
+    "dotenv": "^8.0.0",
     "gh-pages": "^2.0.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
@@ -31,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "typescript": "^3.4.5"
   }
 }
